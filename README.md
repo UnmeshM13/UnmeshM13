@@ -99,6 +99,10 @@ I build **clean, interactive frontend web applications** using modern technologi
 </p>
 -->
 ---
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UnmeshM13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
 ⭐ This profile showcases my journey as a **Frontend Developer** and my continuous growth through **real-world projects**.
 
