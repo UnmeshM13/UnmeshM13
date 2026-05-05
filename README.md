@@ -60,7 +60,9 @@ I build **clean, interactive frontend web applications** using modern technologi
 
 ### 🧰 Tools & Platforms
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" class="gh-light-mode-only"/> &nbsp;<!-- GitHub icon: dark mode shows white, light mode shows dark --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" #gh-light-mode-only/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" title="GitHub" #gh-dark-mode-only/> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
 
 ---
 
@@ -98,10 +100,11 @@ I build **clean, interactive frontend web applications** using modern technologi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnmeshM13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 -->
----
+<!--
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UnmeshM13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+-->
 ---
 
 ⭐ This profile showcases my journey as a **Frontend Developer** and my continuous growth through **real-world projects**.
