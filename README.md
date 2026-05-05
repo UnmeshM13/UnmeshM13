@@ -86,10 +86,16 @@ I build **clean, interactive frontend web applications** using modern technologi
 ## 📊 GitHub Stats
 
 ![Unmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnmeshM13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnmeshM13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Unmesh's GitHub Stats" />
+</p>
 
 ## 🔤 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnmeshM13&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnmeshM13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 ---
 
 ⭐ This profile showcases my journey as a **Frontend Developer** and my continuous growth through **real-world projects**.
