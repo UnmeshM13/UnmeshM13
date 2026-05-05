@@ -61,7 +61,7 @@ I build **clean, interactive frontend web applications** using modern technologi
 ### 🧰 Tools & Platforms
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" class="gh-light-mode-only"/> &nbsp;<!-- GitHub icon: dark mode shows white, light mode shows dark --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" #gh-light-mode-only/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" title="GitHub" #gh-dark-mode-only/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" class="gh-light-mode-only"/> <!-- GitHub icon: dark mode shows white, light mode shows dark --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" #gh-light-mode-only/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" title="GitHub" #gh-dark-mode-only/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
 
 ---
