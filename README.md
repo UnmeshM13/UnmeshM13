@@ -82,6 +82,7 @@ I build **clean, interactive frontend web applications** using modern technologi
 - 🎬 **Certified in Video Editing** — Practical knowledge of editing tools and production techniques
 - ☁️ **GDG Cloud Technologies Lecture** — Attended session on modern cloud infrastructure by industry experts
 
+<!--
 ---
 ## 📊 GitHub Stats
 
@@ -96,6 +97,7 @@ I build **clean, interactive frontend web applications** using modern technologi
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnmeshM13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
+-->
 ---
 
 ⭐ This profile showcases my journey as a **Frontend Developer** and my continuous growth through **real-world projects**.
