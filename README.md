@@ -74,13 +74,13 @@ I build **clean, interactive frontend web applications** using modern technologi
 | 🌐 **Portfolio** | Personal portfolio showcasing all projects and skills | HTML, CSS | [🔗 Live](https://unmeshm13.github.io/Portfolio/) |
 
 ---
-
+<!--
 ## 🏆 Achievements
 
 - 🚂 **RailHack 2025** — Developed a real-time passenger safety web solution among 500+ participants
 - 🎬 **Certified in Video Editing** — Practical knowledge of editing tools and production techniques
 - ☁️ **GDG Cloud Technologies Lecture** — Attended session on modern cloud infrastructure by industry experts
-
+-->
 <!--
 ---
 ## 📊 GitHub Stats
