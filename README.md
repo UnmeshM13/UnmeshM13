@@ -44,7 +44,6 @@ I build **clean, interactive frontend web applications** using modern technologi
 - 🚀 Built and deployed personal projects accessible live on the web
 - 🎮 Also work with **C/C++, C#, Python & Unity** for games and software
 - 🌱 Currently deepening my knowledge of **React.js & JavaScript**
-- 🏆 **RailHack 2025** participant — built a real-time passenger safety web solution among 500+ participants
 
 ---
 
